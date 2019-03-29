@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## C103F Spring 2019: Group 18
+<img src="group_photo.jpg" width="800" />
+From left to right: 
 
-You can use the [editor on GitHub](https://github.com/tiramisueanne/EthicsBlog2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Allowing companies insight into our daily browsing habits and lifestyle choices gives us benefits previously never imagined, such as coupons to our favorite restaurants and real-time low traffic routes. However, individuals may vary on what they are willing to share, which could be impacted by trust in the company, their own personal paranoias, and the company’s intent when using the data. 
 
-### Markdown
+This trade affects society mainly by creating a distrust between businesses that collect data and the users who generate the data. Most users are poorly informed about how their data is collected and to what degree their data is linked to them, so when they hear that a company is tracking their data, their first reactions are fear and anger. However, for the portion of people who are aware and content with how their data is used, then it can provide a possible efficiency and quality boost. Despite this, the data trade can have major negative effects through the targeted spread of misinformation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The tech industry ‘s responsibilities can be understood from a consequentialist ethical framework since they have to prevent it from getting it into the “wrong hands”. If it were to get in the wrong hands, situations as impactful as influencing the political election can occur. Companies also have the responsibility to be transparent with their users. As a result, executives of these tech companies need to have more of these ethical discussions amongst themselves and with third parties. This will help ensure their users aren’t forced to be put into potentially compromising situations by sharing their data with the company.
 
-```markdown
-Syntax highlighted code block
+Informed consent is when the company is transparent with the user about what data they are collecting, who is able to access their data, and what that data might be used for. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tiramisueanne/EthicsBlog2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Both the user and the company that is retaining the personal data own the data as the user entrusts the company with their information. However, the company should not be able to provide that data to third parties without the user’s permission.
