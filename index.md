@@ -1,6 +1,6 @@
 ## C103F Spring 2019: Group 18
 <img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
-From left to right: 
+From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
 
 
 Allowing companies insight into our daily browsing habits and lifestyle choices gives us benefits previously never imagined, such as coupons to our favorite restaurants and real-time low traffic routes. However, individuals may vary on what they are willing to share, which could be impacted by trust in the company, their own personal paranoias, and the company’s intent when using the data. 
