@@ -1,5 +1,5 @@
 ## C103F Spring 2019: Group 18
-<img src="group_photo.jpg" width="800" />
+<img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
 From left to right: 
 
 
