@@ -1,3 +1,18 @@
+## C103F Spring 2019: The GD-Scene
+<img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
+From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
+
+The effects of hacktivism on society is helpful when there is a fight for free unrestricted access of information for individuals. Hacktivism can be used to counter censorship that many individuals around the world face, such as Tunisians. Hacktivism can be beneficial to society when fighting for the civil liberties of people, but can also just create chaos (marketplace.org).
+
+Hacktivist groups often champion their effects on individuals. For those who are unable to access information, or who only have censored information, individuals rely on hacktivists to be educated and aware of their surroundings. Additionally, individuals that live in an environment where they are unable to voice their concerns benefit as they are given a platform to raise awareness and incite change. However, hacktivists get to choose their targets, often somewhat randomly and vengefully, which can harm innocent individuals with no recourse. 
+
+Hacktivism is ethical when it can be used to spark social change and allow access to free, unrestricted information for those unable to obtain it otherwise.  However, hacktivism can also be viewed as unethical, as cyber attacks are illegal. Besides the concern of legality, hacktivism can also be socially harmful. In the Ashley Madison case, hackers leaked the information of users which probably ruined the relationships of many people. 
+
+A consequentialist framework could be used to evaluate whether the action of a hacktivist group was ethical or beneficial, however, a virtue ethical framework can consider the history of the group and help determine whether the group had good intentions. Additionally, it is hard to determine the full consequences of an action because actions of hacktivist groups typically have far reaching effects. While some might see it as good that an unethical business was attacked by a hacktivist group, that business would see the attack as decidedly bad. Because of this duality, ethicality and effects can only be evaluated accurately when looking at the action from each side individually.
+
+https://www.marketplace.org/2017/04/28/tech/founder-hacker-group-lulzsec-explains-chaos-hacktivism
+
+
 ## C103F Spring 2019: Group 18
 <img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
 From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
