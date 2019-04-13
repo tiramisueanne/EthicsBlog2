@@ -2,6 +2,21 @@
 <img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
 From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
 
+AI plays a huge role in society by aiding decision making and risk assessment in numerous areas of life. From using COMPAS to determine the likelihood of a criminal’s reoffense to using ADM (Automated Decision-Making) to help decide whether someone should be able to obtain a mortgage, society is becoming reliant on AI for decision making.
+
+The advantages of AI can be beneficial in which ADM systems can increase fairness (Inspecting Algorithms for Bias). By referring to ADM systems, decisions could be more “fair” in which decisions made by individuals could be more biased depending on their implicit biases and environmental factors. Disadvantages of AI include allocative harm, or when the system denies an individual or group a certain opportunity or resource, and representational harm, in which systems reinforce a certain result for certain groups (AI Professor Details Real-World Dangers of Algorithm Bias).  These advantages outweigh disadvantages when either the model is less biased than the alternative decision making process, or when the model is not making judgements on people. 
+
+Solutions that have been proposed include collecting more testing data from underrepresented groups, increasing bias testing by third-parties during the development cycle, and expanding the workforce of those who work on AI algorithms and models.  All of these solutions could help solve the problem, but the root of the issue is using demographic data to predict an individual’s outcomes, which is inherently discriminatory. Thus, whenever demographic data is utilized (even if it increases the accuracy of the model), the problem will always exist. 
+
+As humans, it is ethical eliminate our biases, as per the duty-based framework in which we should treat people equally. As computer scientists, we have a greater ethical need for making sure these biases are suppressed, as through the Consequentialist framework, where our biases could create models that harm more people than one person would ever interact with. Even if we are not in the field of AI, we still understand how AI works, and it is therefore still our responsibility as experts to make sure that end-users understand the inherent drawbacks and consequences. 
+
+In a development life cycle, ethical dilemmas could be brushed off in favor of higher accuracy, for example. As a result, ethical fading and incrementalism is dependent on the work environment and product expectations. If the work is done in a closed environment without much external input, then the ethical mindset of the individual will simply amplify itself until it is an extreme. Because of our susceptibility, it is important that we provide ourselves with differing viewpoints.
+
+
+## C103F Spring 2019: The GD-Scene
+<img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
+From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
+
 The effects of hacktivism on society is helpful when there is a fight for free unrestricted access of information for individuals. Hacktivism can be used to counter censorship that many individuals around the world face, such as Tunisians. Hacktivism can be beneficial to society when fighting for the civil liberties of people, but can also just create chaos (marketplace.org).
 
 Hacktivist groups often champion their effects on individuals. For those who are unable to access information, or who only have censored information, individuals rely on hacktivists to be educated and aware of their surroundings. Additionally, individuals that live in an environment where they are unable to voice their concerns benefit as they are given a platform to raise awareness and incite change. However, hacktivists get to choose their targets, often somewhat randomly and vengefully, which can harm innocent individuals with no recourse. 
