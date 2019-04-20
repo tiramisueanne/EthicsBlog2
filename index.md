@@ -2,6 +2,21 @@
 <img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
 From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
 
+Gamification is a marketing technique implemented through gaming elements and competition. Gamification is applying game-design elements to real-world activities. Specifically, gamification focuses mainly on human motivation. It’s a smart technique that leverages humans by giving them a sense of achievement and competition. 
+
+Gamification can be helpful in creating and maintaining healthy habits. Duolingo uses development/accomplishment and loss/avoidance of the core drives of gamification to retain users. Duolingo uses development/accomplishment by rewarding users with a badge for completing a lesson and also by allowing users to see their progress. Duolingo forces users to use Duolingo as a habit by employing loss/avoidance framework in which users will lose their streak if they do not use Duolingo and meet their goal of practicing x minutes a day. Gamification can be used to encourage users to maintain healthy habits and maximize productivity.
+
+Gamification can be negative in that it can make something that the user doesn’t intrinsically enjoy or value addictive. Social media specifically targets the social influence core in which it can invite envy from users. In addition, social media maintains its user base through acting as a means for escapism as users will log back on their social media to avoid their responsibilities and spend their time engaging with other users. By increasing engagement with other users and content, social media can trap users into a toxic cycle in which users are unable to work productively.
+
+Play incentives encourage users to come back and engage with the activity whereas addiction is when users become uncomfortable without this certain activity. Although it may be hard to distinguish the two, play incentives can act as a positive influence in a user’s life by encouraging learning while addiction serves as a negative effect by encouraging users to shirk their responsibilities. 
+
+Companies can be encouraged to avoid addictive/exploitive mechanics by enhancing the user experience instead of relying on “engagement” to the product. For instance, if Instagram was a paid-for service, it would be easy to configure it such that no one could see each other’s like numbers, or followers. Companies could also be penalized if a significant portion of their user base exhibited addictive behaviors towards the game (30+ hours a week, for instance).
+
+
+## C103F Spring 2019: The GD-Scene
+<img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
+From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
+
 AI plays a huge role in society by aiding decision making and risk assessment in numerous areas of life. From using COMPAS to determine the likelihood of a criminal’s reoffense to using ADM (Automated Decision-Making) to help decide whether someone should be able to obtain a mortgage, society is becoming reliant on AI for decision making.
 
 The advantages of AI can be beneficial in which ADM systems can increase fairness (Inspecting Algorithms for Bias). By referring to ADM systems, decisions could be more “fair” in which decisions made by individuals could be more biased depending on their implicit biases and environmental factors. Disadvantages of AI include allocative harm, or when the system denies an individual or group a certain opportunity or resource, and representational harm, in which systems reinforce a certain result for certain groups (AI Professor Details Real-World Dangers of Algorithm Bias).  These advantages outweigh disadvantages when either the model is less biased than the alternative decision making process, or when the model is not making judgements on people. 
