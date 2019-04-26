@@ -2,6 +2,29 @@
 <img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
 From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
 
+It’s difficult to lay down any set of rules that allows one to identify a situation and figure out a clear cut ethical result. However, computer scientists can utilize this set of rules to adhere to, so that they can more easily analyze their own ethical dilemmas.
+
+1.) Reduce Harm
+Computer scientists should act in favor of the public interest and refrain from contributing to activities that do excessive harm others or the environment. Computer scientists must reassess situations that could negatively affect society, and be held accountable for when unforeseen detriments do happen. Computer scientists should evaluate decisions from different perspectives to prevent ethical fading.
+2.) Produce Safe Products
+Computer scientists should strive and deploy products that are both secure and reliable. With this in mind, products should be heavily pen-tested and verified before release. This ethical practice is understood through the duty-based framework, as a product that advertises safety, availability, and correctness should do so. 
+
+3.) Respect Privacy
+Computer scientists should respect privacy and be responsible for securing personal information. Additionally, computer scientists should be transparent to users on what data is being collected and the purpose of the data, and should get consent for this data collection.
+
+4.) No Stealing
+Computing professionals shouldn’t steal or plagiarize. They should respect copyright, patent law, and licensing agreements regarding ideas as well as software subscriptions. 
+
+5.) Respect in the Workplace
+All interactions with employers should be respectful. Adequate time and energy should be contributed to work with the knowledge that one’s team is reliant upon it, as well as the fact that the work is paid for to be done in a timely fashion. Similarly, employers should respect their employees and put forth their own time and energy as well to contribute to the task at hand, as well as respecting the dignity and humanity of the employee. If you see a coworker getting mistreated, utilize channels to remediate the transgressions.
+
+6.) Reduce Bias
+Computer scientists should work to reduce personal and algorithmic biases. As a result, they should not discriminate against users nor coworkers in the workplace. Computer scientists should be as inclusive as possible when designing software and products. Not to mention, they should do their best to prevent their implicit biases from impacting the product or service. 
+
+## C103F Spring 2019: The GD-Scene
+<img src="56252806_317928325473583_7763946393101664256_n.jpg" width="800" />
+From left to right: Sue Anne Davis, Jonathan Ham, Lina Ly, Shailen Patel 
+
 Gamification is a marketing technique implemented through gaming elements and competition. Gamification is applying game-design elements to real-world activities. Specifically, gamification focuses mainly on human motivation. It’s a smart technique that leverages humans by giving them a sense of achievement and competition. 
 
 Gamification can be helpful in creating and maintaining healthy habits. Duolingo uses development/accomplishment and loss/avoidance of the core drives of gamification to retain users. Duolingo uses development/accomplishment by rewarding users with a badge for completing a lesson and also by allowing users to see their progress. Duolingo forces users to use Duolingo as a habit by employing loss/avoidance framework in which users will lose their streak if they do not use Duolingo and meet their goal of practicing x minutes a day. Gamification can be used to encourage users to maintain healthy habits and maximize productivity.
